@@ -1,0 +1,642 @@
+{
+  "pid": "16810",
+  "example": {
+    "question": "Which figure of speech is used in this text?\nJeanette insisted that her dog wasn't fat; she said that he was merely well-fed.",
+    "choices": [
+      "euphemism",
+      "paradox"
+    ],
+    "answer": 0,
+    "hint": "",
+    "image": null,
+    "task": "closed choice",
+    "grade": "grade12",
+    "subject": "language science",
+    "topic": "figurative-language",
+    "category": "Literary devices",
+    "skill": "Classify the figure of speech: euphemism, hyperbole, oxymoron, paradox",
+    "lecture": "Figures of speech are words or phrases that use language in a nonliteral or unusual way. They can make writing more expressive.\nA euphemism is a polite or indirect expression that is used to de-emphasize an unpleasant topic.\nThe head of Human Resources would never refer to firing people, only to laying them off.\nHyperbole is an obvious exaggeration that is not meant to be taken literally.\nI ate so much that I think I might explode!\nAn oxymoron is a joining of two seemingly contradictory terms.\nSome reviewers are calling this book a new classic.\nA paradox is a statement that might at first appear to be contradictory, but that may in fact contain some truth.\nAlways expect the unexpected.",
+    "solution": "The text uses a euphemism, a polite or indirect expression that is used to de-emphasize an unpleasant topic.\nWell-fed is an indirect way of saying overweight.",
+    "split": "test",
+    "image_file": "",
+    "caption": "",
+    "ocr": []
+  },
+  "question_text": "Which figure of speech is used in this text?\nJeanette insisted that her dog wasn't fat; she said that he was merely well-fed.\n\nOptions: (A) euphemism (B) paradox",
+  "metadata": {
+    "has_image": false,
+    "grade": 12,
+    "subject": "language science",
+    "topic": "figurative-language",
+    "category": "Literary devices",
+    "skill": "Classify the figure of speech: euphemism, hyperbole, oxymoron, paradox"
+  },
+  "modules:input": "Question: Which figure of speech is used in this text?\nJeanette insisted that her dog wasn't fat; she said that he was merely well-fed.\n\nOptions: (A) euphemism (B) paradox\n\nMetadata: {'has_image': False, 'grade': 12, 'subject': 'language science', 'topic': 'figurative-language', 'category': 'Literary devices', 'skill': 'Classify the figure of speech: euphemism, hyperbole, oxymoron, paradox'}\n\nModules: ",
+  "modules:output": [
+    "knowledge_retrieval",
+    "solution_generator",
+    "answer_generator"
+  ],
+  "response": "Knowledge:\n- Figurative language is a way of using words or expressions to convey a meaning that is different from the literal interpretation.\n- A figure of speech is a specific type of figurative language that uses words or expressions in a non-literal way to create a particular effect or meaning.\n- Euphemism is a figure of speech that replaces a harsh or unpleasant word or phrase with a milder or more indirect one.\n- Paradox is a figure of speech that uses contradictory ideas or statements to create a deeper meaning or reveal a truth.",
+  "knowledge_retrieval:input": "Question: Which figure of speech is used in this text?\nJeanette insisted that her dog wasn't fat; she said that he was merely well-fed.\n\nOptions: (A) euphemism (B) paradox\n\nMetadata: {'has_image': False, 'grade': 12, 'subject': 'language science', 'topic': 'figurative-language', 'category': 'Literary devices', 'skill': 'Classify the figure of speech: euphemism, hyperbole, oxymoron, paradox'}\n\nKnowledge:\n",
+  "knowledge_retrieval:output": "- Figurative language is a way of using words or expressions to convey a meaning that is different from the literal interpretation.\n- A figure of speech is a specific type of figurative language that uses words or expressions in a non-literal way to create a particular effect or meaning.\n- Euphemism is a figure of speech that replaces a harsh or unpleasant word or phrase with a milder or more indirect one.\n- Paradox is a figure of speech that uses contradictory ideas or statements to create a deeper meaning or reveal a truth.",
+  "solution": "Read the text and identify the figure of speech used.\nIn this text, Jeanette insists that her dog isn't fat, but instead, she says that he is merely well-fed.\n\nThe figure of speech used in this text is a euphemism. A euphemism is a figure of speech that replaces a harsh or unpleasant word or phrase with a milder or more indirect one. In this case, instead of saying that her dog is fat, Jeanette uses the phrase \"merely well-fed\" to convey the same meaning in a more positive or less offensive way.\n\nTherefore, the answer is A.",
+  "solution_generator:input": "Question: Which figure of speech is used in this text?\nJeanette insisted that her dog wasn't fat; she said that he was merely well-fed.\n\nOptions: (A) euphemism (B) paradox\n\nMetadata: {'has_image': False, 'grade': 12, 'subject': 'language science', 'topic': 'figurative-language', 'category': 'Literary devices', 'skill': 'Classify the figure of speech: euphemism, hyperbole, oxymoron, paradox'}\n\nKnowledge:\n- Figurative language is a way of using words or expressions to convey a meaning that is different from the literal interpretation.\n- A figure of speech is a specific type of figurative language that uses words or expressions in a non-literal way to create a particular effect or meaning.\n- Euphemism is a figure of speech that replaces a harsh or unpleasant word or phrase with a milder or more indirect one.\n- Paradox is a figure of speech that uses contradictory ideas or statements to create a deeper meaning or reveal a truth.\n\nSolution: ",
+  "solution_generator:output": "Read the text and identify the figure of speech used.\nIn this text, Jeanette insists that her dog isn't fat, but instead, she says that he is merely well-fed.\n\nThe figure of speech used in this text is a euphemism. A euphemism is a figure of speech that replaces a harsh or unpleasant word or phrase with a milder or more indirect one. In this case, instead of saying that her dog is fat, Jeanette uses the phrase \"merely well-fed\" to convey the same meaning in a more positive or less offensive way.\n\nTherefore, the answer is A.",
+  "prediction": "euphemism",
+  "answer_generator:input": "Read the text and identify the figure of speech used.\nIn this text, Jeanette insists that her dog isn't fat, but instead, she says that he is merely well-fed.\n\nThe figure of speech used in this text is a euphemism. A euphemism is a figure of speech that replaces a harsh or unpleasant word or phrase with a milder or more indirect one. In this case, instead of saying that her dog is fat, Jeanette uses the phrase \"merely well-fed\" to convey the same meaning in a more positive or less offensive way.\n\nTherefore, the answer is A.",
+  "answer_generator:output": "euphemism",
+  "true_false": true
+}
+{
+  "pid": "12979",
+  "example": {
+    "question": "What is the capital of North Dakota?",
+    "choices": [
+      "Pierre",
+      "Juneau",
+      "Bismarck",
+      "Jefferson City"
+    ],
+    "answer": 2,
+    "hint": "",
+    "image": "image.png",
+    "task": "closed choice",
+    "grade": "grade5",
+    "subject": "social science",
+    "topic": "geography",
+    "category": "State capitals",
+    "skill": "Identify state capitals of the Midwest",
+    "lecture": "",
+    "solution": "Bismarck is the capital of North Dakota.",
+    "split": "test",
+    "image_file": "../data/scienceqa\\images\\test\\12979\\image.png",
+    "caption": "A painting of an animal on top of a green field.",
+    "ocr": "[]"
+  },
+  "question_text": "What is the capital of North Dakota?\n\nOptions: (A) Pierre (B) Juneau (C) Bismarck (D) Jefferson City",
+  "metadata": {
+    "has_image": true,
+    "grade": 5,
+    "subject": "social science",
+    "topic": "geography",
+    "category": "State capitals",
+    "skill": "Identify state capitals of the Midwest"
+  },
+  "modules:input": "Question: What is the capital of North Dakota?\n\nOptions: (A) Pierre (B) Juneau (C) Bismarck (D) Jefferson City\n\nMetadata: {'has_image': True, 'grade': 5, 'subject': 'social science', 'topic': 'geography', 'category': 'State capitals', 'skill': 'Identify state capitals of the Midwest'}\n\nModules: ",
+  "modules:output": [
+    "query_generator",
+    "bing_search",
+    "solution_generator",
+    "answer_generator"
+  ],
+  "query": "Capital of North Dakota",
+  "query_generator:input": "Question: What is the capital of North Dakota?\n\nOptions: (A) Pierre (B) Juneau (C) Bismarck (D) Jefferson City\n\nMetadata: {'has_image': True, 'grade': 5, 'subject': 'social science', 'topic': 'geography', 'category': 'State capitals', 'skill': 'Identify state capitals of the Midwest'}\n\nSearch Query: ",
+  "query_generator:output": "Capital of North Dakota",
+  "response": "",
+  "bing_search:input": "Capital of North Dakota",
+  "bing_search:output": [],
+  "solution": "To find the capital of North Dakota, we can use our knowledge of state capitals or search for the answer.\n\nUsing our knowledge of state capitals, we know that Pierre is the capital of South Dakota, Juneau is the capital of Alaska, and Jefferson City is the capital of Missouri. \n\nSearching for the capital of North Dakota, we find that Bismarck is the capital.\n\nTherefore, the answer is C.",
+  "solution_generator:input": "Question: What is the capital of North Dakota?\n\nOptions: (A) Pierre (B) Juneau (C) Bismarck (D) Jefferson City\n\nMetadata: {'has_image': True, 'grade': 5, 'subject': 'social science', 'topic': 'geography', 'category': 'State capitals', 'skill': 'Identify state capitals of the Midwest'}\n\nSolution: ",
+  "solution_generator:output": "To find the capital of North Dakota, we can use our knowledge of state capitals or search for the answer.\n\nUsing our knowledge of state capitals, we know that Pierre is the capital of South Dakota, Juneau is the capital of Alaska, and Jefferson City is the capital of Missouri. \n\nSearching for the capital of North Dakota, we find that Bismarck is the capital.\n\nTherefore, the answer is C.",
+  "prediction": "Bismarck",
+  "answer_generator:input": "To find the capital of North Dakota, we can use our knowledge of state capitals or search for the answer.\n\nUsing our knowledge of state capitals, we know that Pierre is the capital of South Dakota, Juneau is the capital of Alaska, and Jefferson City is the capital of Missouri. \n\nSearching for the capital of North Dakota, we find that Bismarck is the capital.\n\nTherefore, the answer is C.",
+  "answer_generator:output": "Bismarck",
+  "true_false": true
+}
+{
+  "pid": "11202",
+  "example": {
+    "question": "Based on this information, what is this plant's phenotype for the flower color trait?",
+    "choices": [
+      "white flowers",
+      "red flowers"
+    ],
+    "answer": 0,
+    "hint": "In a group of scarlet rosemallow plants, some individuals have red flowers and others have white flowers. In this group, the gene for the flower color trait has two alleles. The allele for red flowers (F) is dominant over the allele for white flowers (f).\nA certain scarlet rosemallow plant from this group has the homozygous genotype ff for the flower color gene.",
+    "image": null,
+    "task": "closed choice",
+    "grade": "grade6",
+    "subject": "natural science",
+    "topic": "biology",
+    "category": "Genes to traits",
+    "skill": "Genetics vocabulary: dominant and recessive",
+    "lecture": "All organisms have pieces of hereditary material called genes, which are passed from parents to offspring. Genes contain instructions for building the parts of an organism. An organism's genes affect its observable traits, including its appearance, its behavior, and which diseases it may have. Genes may have different alleles, or forms, that can cause different versions of a trait.\nFor example, flower color is a trait in pea plants. The gene for this trait has two possible alleles. Each allele is represented by an uppercase or lowercase letter. The allele F is for purple flowers, and the allele f is for white flowers. Each pea plant has two alleles for the flower color gene\u2014one allele inherited from each parent.\nAn organism's genotype for a gene is its combination of alleles for that gene. So, a pea plant may have a genotype of FF, Ff, or ff for the flower color gene.\nAn organism's phenotype for a trait is its observable version of that trait, which depends on the organism's combination of alleles. A pea plant may have a phenotype of purple flowers or white flowers for the flower color trait.\nSome traits, like flower color in pea plants, are controlled by a single gene. Most plants and animals have a genotype made up of two alleles for these traits. These two alleles determine whether an organism is homozygous or heterozygous for the gene.\nAn organism with two identical alleles for a gene is homozygous for that gene. A pea plant with the genotype FF or ff is homozygous for the flower color gene.\nAn organism with two different alleles for a gene is heterozygous for that gene. A pea plant with the genotype Ff is heterozygous for the flower color gene.\nThe types of alleles in an organism's genotype determine the organism's phenotype. Some alleles have types called dominant and recessive. These two types can cause different versions of a trait to appear as the organism's phenotype.\nA dominant allele causes its version of the trait to appear even when the organism also has a recessive allele for the gene. In pea plants, the F allele, which causes purple flowers, is dominant over the f allele. A pea plant with at least one F allele will have the F allele's version of the flower color trait. So, a plant with the genotype FF or Ff will have purple flowers.\nA recessive allele causes its version of the trait to appear only when the organism does not have any dominant alleles for the gene. In pea plants, the f allele, which causes white flowers, is recessive to the F allele. A pea plant with only f alleles will have the f allele's version of the flower color trait. So, a plant with the genotype ff will have white flowers.",
+    "solution": "The scarlet rosemallow plant's genotype for the flower color gene is ff. The scarlet rosemallow plant's genotype of ff has only f alleles. The f allele is for white flowers. So, the scarlet rosemallow plant's phenotype for the flower color trait must be white flowers.\nTo check this answer, consider whether the scarlet rosemallow plant's alleles are dominant or recessive. The allele for red flowers (F) is dominant over the allele for white flowers (f). This means F is a dominant allele, and f is a recessive allele.\nThe scarlet rosemallow plant's genotype of ff has only recessive alleles. An organism with only recessive alleles for a gene will have the recessive allele's version of the trait. So, the scarlet rosemallow plant's phenotype for the flower color trait must be white flowers.",
+    "split": "test",
+    "image_file": "",
+    "caption": "",
+    "ocr": []
+  },
+  "question_text": "Based on this information, what is this plant's phenotype for the flower color trait?\n\nContext: In a group of scarlet rosemallow plants, some individuals have red flowers and others have white flowers. In this group, the gene for the flower color trait has two alleles. The allele for red flowers (F) is dominant over the allele for white flowers (f).\nA certain scarlet rosemallow plant from this group has the homozygous genotype ff for the flower color gene.\n\nOptions: (A) white flowers (B) red flowers",
+  "metadata": {
+    "has_image": false,
+    "grade": 6,
+    "subject": "natural science",
+    "topic": "biology",
+    "category": "Genes to traits",
+    "skill": "Genetics vocabulary: dominant and recessive"
+  },
+  "modules:input": "Question: Based on this information, what is this plant's phenotype for the flower color trait?\n\nContext: In a group of scarlet rosemallow plants, some individuals have red flowers and others have white flowers. In this group, the gene for the flower color trait has two alleles. The allele for red flowers (F) is dominant over the allele for white flowers (f).\nA certain scarlet rosemallow plant from this group has the homozygous genotype ff for the flower color gene.\n\nOptions: (A) white flowers (B) red flowers\n\nMetadata: {'has_image': False, 'grade': 6, 'subject': 'natural science', 'topic': 'biology', 'category': 'Genes to traits', 'skill': 'Genetics vocabulary: dominant and recessive'}\n\nModules: ",
+  "modules:output": [
+    "knowledge_retrieval",
+    "solution_generator",
+    "answer_generator"
+  ],
+  "response": "Knowledge:\n- Phenotype refers to the observable characteristics or traits of an organism, such as its physical appearance.\n- Genotype refers to the genetic makeup of an organism, specifically the combination of alleles it carries for a particular trait.\n- In this case, the scarlet rosemallow plant has two alleles for the flower color trait: F (red flowers) and f (white flowers).\n- The allele for red flowers (F) is dominant over the allele for white flowers (f), meaning that if an individual has at least one F allele, it will have red flowers.\n- The plant in question has the homozygous genotype ff, which means it has two copies of the recessive allele for white flowers.\n- Based on this information, the plant's phenotype for the flower color trait would be white flowers.",
+  "knowledge_retrieval:input": "Question: Based on this information, what is this plant's phenotype for the flower color trait?\n\nContext: In a group of scarlet rosemallow plants, some individuals have red flowers and others have white flowers. In this group, the gene for the flower color trait has two alleles. The allele for red flowers (F) is dominant over the allele for white flowers (f).\nA certain scarlet rosemallow plant from this group has the homozygous genotype ff for the flower color gene.\n\nOptions: (A) white flowers (B) red flowers\n\nMetadata: {'has_image': False, 'grade': 6, 'subject': 'natural science', 'topic': 'biology', 'category': 'Genes to traits', 'skill': 'Genetics vocabulary: dominant and recessive'}\n\nKnowledge:\n",
+  "knowledge_retrieval:output": "- Phenotype refers to the observable characteristics or traits of an organism, such as its physical appearance.\n- Genotype refers to the genetic makeup of an organism, specifically the combination of alleles it carries for a particular trait.\n- In this case, the scarlet rosemallow plant has two alleles for the flower color trait: F (red flowers) and f (white flowers).\n- The allele for red flowers (F) is dominant over the allele for white flowers (f), meaning that if an individual has at least one F allele, it will have red flowers.\n- The plant in question has the homozygous genotype ff, which means it has two copies of the recessive allele for white flowers.\n- Based on this information, the plant's phenotype for the flower color trait would be white flowers.",
+  "solution": "The plant has the genotype ff, which means it has two copies of the recessive allele for white flowers. Since the allele for white flowers (f) is recessive and the allele for red flowers (F) is dominant, the plant will exhibit the phenotype associated with the recessive allele, which is white flowers.\n\nTherefore, the answer is A.",
+  "solution_generator:input": "Question: Based on this information, what is this plant's phenotype for the flower color trait?\n\nContext: In a group of scarlet rosemallow plants, some individuals have red flowers and others have white flowers. In this group, the gene for the flower color trait has two alleles. The allele for red flowers (F) is dominant over the allele for white flowers (f).\nA certain scarlet rosemallow plant from this group has the homozygous genotype ff for the flower color gene.\n\nOptions: (A) white flowers (B) red flowers\n\nMetadata: {'has_image': False, 'grade': 6, 'subject': 'natural science', 'topic': 'biology', 'category': 'Genes to traits', 'skill': 'Genetics vocabulary: dominant and recessive'}\n\nKnowledge:\n- Phenotype refers to the observable characteristics or traits of an organism, such as its physical appearance.\n- Genotype refers to the genetic makeup of an organism, specifically the combination of alleles it carries for a particular trait.\n- In this case, the scarlet rosemallow plant has two alleles for the flower color trait: F (red flowers) and f (white flowers).\n- The allele for red flowers (F) is dominant over the allele for white flowers (f), meaning that if an individual has at least one F allele, it will have red flowers.\n- The plant in question has the homozygous genotype ff, which means it has two copies of the recessive allele for white flowers.\n- Based on this information, the plant's phenotype for the flower color trait would be white flowers.\n\nSolution: ",
+  "solution_generator:output": "The plant has the genotype ff, which means it has two copies of the recessive allele for white flowers. Since the allele for white flowers (f) is recessive and the allele for red flowers (F) is dominant, the plant will exhibit the phenotype associated with the recessive allele, which is white flowers.\n\nTherefore, the answer is A.",
+  "prediction": "white flowers",
+  "answer_generator:input": "The plant has the genotype ff, which means it has two copies of the recessive allele for white flowers. Since the allele for white flowers (f) is recessive and the allele for red flowers (F) is dominant, the plant will exhibit the phenotype associated with the recessive allele, which is white flowers.\n\nTherefore, the answer is A.",
+  "answer_generator:output": "white flowers",
+  "true_false": true
+}
+{
+  "pid": "18743",
+  "example": {
+    "question": "Which text uses the word factoid in its traditional sense?",
+    "choices": [
+      "As a geneticist, Janet enjoys watching science documentaries and sharing various factoids she's learned with her colleagues.",
+      "As a geneticist, Janet dislikes many popular sci-fi movies because they often present audiences with factoids that misrepresent her field."
+    ],
+    "answer": 1,
+    "hint": "",
+    "image": null,
+    "task": "closed choice",
+    "grade": "grade11",
+    "subject": "language science",
+    "topic": "writing-strategies",
+    "category": "Word usage and nuance",
+    "skill": "Explore words with new or contested usages",
+    "lecture": "Words change in meaning when speakers begin using them in new ways. For example, the word peruse once only meant to examine in detail, but it's now also commonly used to mean to look through in a casual manner.\nWhen a word changes in meaning, its correct usage is often debated. Although a newer sense of the word may be more commonly used, many people consider a word's traditional definition to be the correct usage. Being able to distinguish the different uses of a word can help you use it appropriately for different audiences.\nBritney perused her notes, carefully preparing for her exam.\nThe traditional usage above is considered more standard.\nDavid perused the magazine, absentmindedly flipping through the pages.\nThe nontraditional usage above is now commonly used, but traditional style guides generally advise against it.",
+    "solution": "The first text uses factoid in its traditional sense: something made up presented as a true fact.\nAs a geneticist, Janet dislikes many popular sci-fi movies because they often present audiences with factoids that misrepresent her field.\nThe second text uses factoid in its nontraditional sense: a trivial but true fact.\nAs a geneticist, Janet enjoys watching science documentaries and sharing various factoids she's learned with her colleagues.\nMost style guides recommend to use the traditional sense of the word factoid because it is considered more standard.",
+    "split": "test",
+    "image_file": "",
+    "caption": "",
+    "ocr": []
+  },
+  "question_text": "Which text uses the word factoid in its traditional sense?\n\nOptions: (A) As a geneticist, Janet enjoys watching science documentaries and sharing various factoids she's learned with her colleagues. (B) As a geneticist, Janet dislikes many popular sci-fi movies because they often present audiences with factoids that misrepresent her field.",
+  "metadata": {
+    "has_image": false,
+    "grade": 11,
+    "subject": "language science",
+    "topic": "writing-strategies",
+    "category": "Word usage and nuance",
+    "skill": "Explore words with new or contested usages"
+  },
+  "modules:input": "Question: Which text uses the word factoid in its traditional sense?\n\nOptions: (A) As a geneticist, Janet enjoys watching science documentaries and sharing various factoids she's learned with her colleagues. (B) As a geneticist, Janet dislikes many popular sci-fi movies because they often present audiences with factoids that misrepresent her field.\n\nMetadata: {'has_image': False, 'grade': 11, 'subject': 'language science', 'topic': 'writing-strategies', 'category': 'Word usage and nuance', 'skill': 'Explore words with new or contested usages'}\n\nModules: ",
+  "modules:output": [
+    "knowledge_retrieval",
+    "solution_generator",
+    "answer_generator"
+  ],
+  "response": "Knowledge:\n- The question is asking about the traditional sense of the word \"factoid.\"\n- The word \"factoid\" is used to describe a small or trivial piece of information that is presented as a fact but may not be true or accurate.\n- The traditional sense of the word \"factoid\" refers to a piece of information that is assumed to be true but is actually false or misleading.\n- The options provided involve the usage of the word \"factoid\" in different contexts, one involving sharing true information and the other involving misrepresentation of information.",
+  "knowledge_retrieval:input": "Question: Which text uses the word factoid in its traditional sense?\n\nOptions: (A) As a geneticist, Janet enjoys watching science documentaries and sharing various factoids she's learned with her colleagues. (B) As a geneticist, Janet dislikes many popular sci-fi movies because they often present audiences with factoids that misrepresent her field.\n\nMetadata: {'has_image': False, 'grade': 11, 'subject': 'language science', 'topic': 'writing-strategies', 'category': 'Word usage and nuance', 'skill': 'Explore words with new or contested usages'}\n\nKnowledge:\n",
+  "knowledge_retrieval:output": "- The question is asking about the traditional sense of the word \"factoid.\"\n- The word \"factoid\" is used to describe a small or trivial piece of information that is presented as a fact but may not be true or accurate.\n- The traditional sense of the word \"factoid\" refers to a piece of information that is assumed to be true but is actually false or misleading.\n- The options provided involve the usage of the word \"factoid\" in different contexts, one involving sharing true information and the other involving misrepresentation of information.",
+  "solution": "To determine which text uses the word \"factoid\" in its traditional sense, we need to understand the traditional meaning of the word. The traditional sense of \"factoid\" refers to a piece of information that is assumed to be true but is actually false or misleading.\n\nIn option A, Janet enjoys watching science documentaries and sharing various factoids she's learned with her colleagues. This suggests that Janet is sharing small or trivial pieces of information that she assumes to be true. This aligns with the traditional sense of \"factoid\" as false or misleading information.\n\nIn option B, Janet dislikes many popular sci-fi movies because they often present audiences with factoids that misrepresent her field. This suggests that the sci-fi movies present audiences with small or trivial pieces of information that misrepresent the field of genetics. This also aligns with the traditional sense of \"factoid\" as false or misleading information.\n\nBoth options involve the usage of the word \"factoid\" in the context of false or misleading information. However, option A specifically mentions that Janet enjoys sharing factoids she's learned, indicating a positive connotation towards the sharing of such information. Option B, on the other hand, mentions that Janet dislikes the factoids presented in sci-fi movies, indicating a negative connotation towards the misrepresentation of information.\n\nTherefore, the text that uses the word \"factoid\" in its traditional sense is option B.\n\nThe answer is B.",
+  "solution_generator:input": "Question: Which text uses the word factoid in its traditional sense?\n\nOptions: (A) As a geneticist, Janet enjoys watching science documentaries and sharing various factoids she's learned with her colleagues. (B) As a geneticist, Janet dislikes many popular sci-fi movies because they often present audiences with factoids that misrepresent her field.\n\nMetadata: {'has_image': False, 'grade': 11, 'subject': 'language science', 'topic': 'writing-strategies', 'category': 'Word usage and nuance', 'skill': 'Explore words with new or contested usages'}\n\nKnowledge:\n- The question is asking about the traditional sense of the word \"factoid.\"\n- The word \"factoid\" is used to describe a small or trivial piece of information that is presented as a fact but may not be true or accurate.\n- The traditional sense of the word \"factoid\" refers to a piece of information that is assumed to be true but is actually false or misleading.\n- The options provided involve the usage of the word \"factoid\" in different contexts, one involving sharing true information and the other involving misrepresentation of information.\n\nSolution: ",
+  "solution_generator:output": "To determine which text uses the word \"factoid\" in its traditional sense, we need to understand the traditional meaning of the word. The traditional sense of \"factoid\" refers to a piece of information that is assumed to be true but is actually false or misleading.\n\nIn option A, Janet enjoys watching science documentaries and sharing various factoids she's learned with her colleagues. This suggests that Janet is sharing small or trivial pieces of information that she assumes to be true. This aligns with the traditional sense of \"factoid\" as false or misleading information.\n\nIn option B, Janet dislikes many popular sci-fi movies because they often present audiences with factoids that misrepresent her field. This suggests that the sci-fi movies present audiences with small or trivial pieces of information that misrepresent the field of genetics. This also aligns with the traditional sense of \"factoid\" as false or misleading information.\n\nBoth options involve the usage of the word \"factoid\" in the context of false or misleading information. However, option A specifically mentions that Janet enjoys sharing factoids she's learned, indicating a positive connotation towards the sharing of such information. Option B, on the other hand, mentions that Janet dislikes the factoids presented in sci-fi movies, indicating a negative connotation towards the misrepresentation of information.\n\nTherefore, the text that uses the word \"factoid\" in its traditional sense is option B.\n\nThe answer is B.",
+  "prediction": "As a geneticist, Janet dislikes many popular sci-fi movies because they often present audiences with factoids that misrepresent her field.",
+  "answer_generator:input": "To determine which text uses the word \"factoid\" in its traditional sense, we need to understand the traditional meaning of the word. The traditional sense of \"factoid\" refers to a piece of information that is assumed to be true but is actually false or misleading.\n\nIn option A, Janet enjoys watching science documentaries and sharing various factoids she's learned with her colleagues. This suggests that Janet is sharing small or trivial pieces of information that she assumes to be true. This aligns with the traditional sense of \"factoid\" as false or misleading information.\n\nIn option B, Janet dislikes many popular sci-fi movies because they often present audiences with factoids that misrepresent her field. This suggests that the sci-fi movies present audiences with small or trivial pieces of information that misrepresent the field of genetics. This also aligns with the traditional sense of \"factoid\" as false or misleading information.\n\nBoth options involve the usage of the word \"factoid\" in the context of false or misleading information. However, option A specifically mentions that Janet enjoys sharing factoids she's learned, indicating a positive connotation towards the sharing of such information. Option B, on the other hand, mentions that Janet dislikes the factoids presented in sci-fi movies, indicating a negative connotation towards the misrepresentation of information.\n\nTherefore, the text that uses the word \"factoid\" in its traditional sense is option B.\n\nThe answer is B.",
+  "answer_generator:output": "As a geneticist, Janet dislikes many popular sci-fi movies because they often present audiences with factoids that misrepresent her field.",
+  "true_false": true
+}
+{
+  "pid": "21025",
+  "example": {
+    "question": "Is picking apples a good or a service?",
+    "choices": [
+      "a good",
+      "a service"
+    ],
+    "answer": 1,
+    "hint": "",
+    "image": null,
+    "task": "closed choice",
+    "grade": "grade2",
+    "subject": "social science",
+    "topic": "economics",
+    "category": "Economics",
+    "skill": "Goods and services",
+    "lecture": "Everything you can buy is either a good or a service.\nA good is something you can touch or hold in your hands. For example, a hammer is a good.\nA service is a job you pay someone else to do. For example, cooking food in a restaurant is a service.",
+    "solution": "To decide whether picking apples is a good or a service, ask these questions:\nIs picking apples something you can touch? No.\nIs picking apples a job you might pay someone else to do? Yes.\nSo, picking apples is a service.",
+    "split": "test",
+    "image_file": "",
+    "caption": "",
+    "ocr": []
+  },
+  "question_text": "Is picking apples a good or a service?\n\nOptions: (A) a good (B) a service",
+  "metadata": {
+    "has_image": false,
+    "grade": 2,
+    "subject": "social science",
+    "topic": "economics",
+    "category": "Economics",
+    "skill": "Goods and services"
+  },
+  "modules:input": "Question: Is picking apples a good or a service?\n\nOptions: (A) a good (B) a service\n\nMetadata: {'has_image': False, 'grade': 2, 'subject': 'social science', 'topic': 'economics', 'category': 'Economics', 'skill': 'Goods and services'}\n\nModules: ",
+  "modules:output": [
+    "knowledge_retrieval",
+    "solution_generator",
+    "answer_generator"
+  ],
+  "response": "Knowledge:\n- In economics, goods and services are two different types of products.\n- Goods are physical objects that can be touched, such as apples.\n- Services, on the other hand, are actions or tasks that are performed for someone else, such as picking apples.\n- To determine whether picking apples is a good or a service, we need to consider whether it is a physical object or an action/task.",
+  "knowledge_retrieval:input": "Question: Is picking apples a good or a service?\n\nOptions: (A) a good (B) a service\n\nMetadata: {'has_image': False, 'grade': 2, 'subject': 'social science', 'topic': 'economics', 'category': 'Economics', 'skill': 'Goods and services'}\n\nKnowledge:\n",
+  "knowledge_retrieval:output": "- In economics, goods and services are two different types of products.\n- Goods are physical objects that can be touched, such as apples.\n- Services, on the other hand, are actions or tasks that are performed for someone else, such as picking apples.\n- To determine whether picking apples is a good or a service, we need to consider whether it is a physical object or an action/task.",
+  "solution": "To determine whether picking apples is a good or a service, we need to consider whether it is a physical object or an action/task.\nPicking apples is an action or task that is performed for someone else. It is not a physical object that can be touched.\nTherefore, picking apples is a service.\n\nTherefore, the answer is B.",
+  "solution_generator:input": "Question: Is picking apples a good or a service?\n\nOptions: (A) a good (B) a service\n\nMetadata: {'has_image': False, 'grade': 2, 'subject': 'social science', 'topic': 'economics', 'category': 'Economics', 'skill': 'Goods and services'}\n\nKnowledge:\n- In economics, goods and services are two different types of products.\n- Goods are physical objects that can be touched, such as apples.\n- Services, on the other hand, are actions or tasks that are performed for someone else, such as picking apples.\n- To determine whether picking apples is a good or a service, we need to consider whether it is a physical object or an action/task.\n\nSolution: ",
+  "solution_generator:output": "To determine whether picking apples is a good or a service, we need to consider whether it is a physical object or an action/task.\nPicking apples is an action or task that is performed for someone else. It is not a physical object that can be touched.\nTherefore, picking apples is a service.\n\nTherefore, the answer is B.",
+  "prediction": "a service",
+  "answer_generator:input": "To determine whether picking apples is a good or a service, we need to consider whether it is a physical object or an action/task.\nPicking apples is an action or task that is performed for someone else. It is not a physical object that can be touched.\nTherefore, picking apples is a service.\n\nTherefore, the answer is B.",
+  "answer_generator:output": "a service",
+  "true_false": true
+}
+{
+  "pid": "13738",
+  "example": {
+    "question": "Using only these supplies, which question can Estelle investigate with an experiment?",
+    "choices": [
+      "Does a rubber inner tube sled go faster down a small hill or down a big hill?",
+      "Does a rubber inner tube sled or a plastic sled go faster down a hill?",
+      "Does a plastic sled or a wooden sled go down a hill faster?"
+    ],
+    "answer": 1,
+    "hint": "Estelle is sledding with her friends. She notices that some of them go faster down the sledding hill. She wonders what factors affect sledding speed. So, she decides to design an experiment. She has the following supplies available:\naccess to a small snow-covered hill at the park\na small plastic sled\na large plastic sled\na rubber inner tube sled\na stopwatch",
+    "image": null,
+    "task": "closed choice",
+    "grade": "grade8",
+    "subject": "natural science",
+    "topic": "science-and-engineering-practices",
+    "category": "Designing experiments",
+    "skill": "Identify questions that can be investigated with a set of materials",
+    "lecture": "Experiments can be designed to answer specific questions. When designing an experiment, you must identify the supplies that are necessary to answer your question. In order to do this, you need to figure out what will be tested and what will be measured during the experiment.\nImagine that you are wondering if plants grow to different heights when planted in different types of soil. How might you decide what supplies are necessary to conduct this experiment?\nFirst, you need to identify the part of the experiment that will be tested, which is the independent variable. This is usually the part of the experiment that is different or changed. In this case, you would like to know how plants grow in different types of soil. So, you must have different types of soil available.\nNext, you need to identify the part of the experiment that will be measured or observed, which is the dependent variable. In this experiment, you would like to know if some plants grow taller than others. So, you must be able to compare the plants' heights. To do this, you can observe which plants are taller by looking at them, or you can measure their exact heights with a meterstick.\nSo, if you have different types of soil and can observe or measure the heights of your plants, then you have the supplies you need to investigate your question with an experiment!",
+    "solution": "",
+    "split": "test",
+    "image_file": "",
+    "caption": "",
+    "ocr": []
+  },
+  "question_text": "Using only these supplies, which question can Estelle investigate with an experiment?\n\nContext: Estelle is sledding with her friends. She notices that some of them go faster down the sledding hill. She wonders what factors affect sledding speed. So, she decides to design an experiment. She has the following supplies available:\naccess to a small snow-covered hill at the park\na small plastic sled\na large plastic sled\na rubber inner tube sled\na stopwatch\n\nOptions: (A) Does a rubber inner tube sled go faster down a small hill or down a big hill? (B) Does a rubber inner tube sled or a plastic sled go faster down a hill? (C) Does a plastic sled or a wooden sled go down a hill faster?",
+  "metadata": {
+    "has_image": false,
+    "grade": 8,
+    "subject": "natural science",
+    "topic": "science-and-engineering-practices",
+    "category": "Designing experiments",
+    "skill": "Identify questions that can be investigated with a set of materials"
+  },
+  "modules:input": "Question: Using only these supplies, which question can Estelle investigate with an experiment?\n\nContext: Estelle is sledding with her friends. She notices that some of them go faster down the sledding hill. She wonders what factors affect sledding speed. So, she decides to design an experiment. She has the following supplies available:\naccess to a small snow-covered hill at the park\na small plastic sled\na large plastic sled\na rubber inner tube sled\na stopwatch\n\nOptions: (A) Does a rubber inner tube sled go faster down a small hill or down a big hill? (B) Does a rubber inner tube sled or a plastic sled go faster down a hill? (C) Does a plastic sled or a wooden sled go down a hill faster?\n\nMetadata: {'has_image': False, 'grade': 8, 'subject': 'natural science', 'topic': 'science-and-engineering-practices', 'category': 'Designing experiments', 'skill': 'Identify questions that can be investigated with a set of materials'}\n\nModules: ",
+  "modules:output": [
+    "solution_generator",
+    "answer_generator"
+  ],
+  "solution": "Estelle wants to investigate what factors affect sledding speed. She has access to a small snow-covered hill at the park, a small plastic sled, a large plastic sled, a rubber inner tube sled, and a stopwatch. She wants to design an experiment using these supplies.\n\nOption A asks about the effect of hill size on the speed of a rubber inner tube sled. However, Estelle does not have a wooden sled to compare with the rubber inner tube sled, so she cannot investigate this question.\n\nOption B asks about the effect of sled type on speed, comparing a rubber inner tube sled with a plastic sled. Estelle has both of these sled types, so she can investigate this question.\n\nOption C asks about the effect of sled type on speed, comparing a plastic sled with a wooden sled. Estelle does not have a wooden sled, so she cannot investigate this question.\n\nTherefore, the question that Estelle can investigate with her supplies is \"Does a rubber inner tube sled or a plastic sled go faster down a hill?\"\n\nThe answer is B.",
+  "solution_generator:input": "Question: Using only these supplies, which question can Estelle investigate with an experiment?\n\nContext: Estelle is sledding with her friends. She notices that some of them go faster down the sledding hill. She wonders what factors affect sledding speed. So, she decides to design an experiment. She has the following supplies available:\naccess to a small snow-covered hill at the park\na small plastic sled\na large plastic sled\na rubber inner tube sled\na stopwatch\n\nOptions: (A) Does a rubber inner tube sled go faster down a small hill or down a big hill? (B) Does a rubber inner tube sled or a plastic sled go faster down a hill? (C) Does a plastic sled or a wooden sled go down a hill faster?\n\nMetadata: {'has_image': False, 'grade': 8, 'subject': 'natural science', 'topic': 'science-and-engineering-practices', 'category': 'Designing experiments', 'skill': 'Identify questions that can be investigated with a set of materials'}\n\nSolution: ",
+  "solution_generator:output": "Estelle wants to investigate what factors affect sledding speed. She has access to a small snow-covered hill at the park, a small plastic sled, a large plastic sled, a rubber inner tube sled, and a stopwatch. She wants to design an experiment using these supplies.\n\nOption A asks about the effect of hill size on the speed of a rubber inner tube sled. However, Estelle does not have a wooden sled to compare with the rubber inner tube sled, so she cannot investigate this question.\n\nOption B asks about the effect of sled type on speed, comparing a rubber inner tube sled with a plastic sled. Estelle has both of these sled types, so she can investigate this question.\n\nOption C asks about the effect of sled type on speed, comparing a plastic sled with a wooden sled. Estelle does not have a wooden sled, so she cannot investigate this question.\n\nTherefore, the question that Estelle can investigate with her supplies is \"Does a rubber inner tube sled or a plastic sled go faster down a hill?\"\n\nThe answer is B.",
+  "prediction": "Does a rubber inner tube sled or a plastic sled go faster down a hill?",
+  "answer_generator:input": "Estelle wants to investigate what factors affect sledding speed. She has access to a small snow-covered hill at the park, a small plastic sled, a large plastic sled, a rubber inner tube sled, and a stopwatch. She wants to design an experiment using these supplies.\n\nOption A asks about the effect of hill size on the speed of a rubber inner tube sled. However, Estelle does not have a wooden sled to compare with the rubber inner tube sled, so she cannot investigate this question.\n\nOption B asks about the effect of sled type on speed, comparing a rubber inner tube sled with a plastic sled. Estelle has both of these sled types, so she can investigate this question.\n\nOption C asks about the effect of sled type on speed, comparing a plastic sled with a wooden sled. Estelle does not have a wooden sled, so she cannot investigate this question.\n\nTherefore, the question that Estelle can investigate with her supplies is \"Does a rubber inner tube sled or a plastic sled go faster down a hill?\"\n\nThe answer is B.",
+  "answer_generator:output": "Does a rubber inner tube sled or a plastic sled go faster down a hill?",
+  "true_false": true
+}
+{
+  "pid": "2660",
+  "example": {
+    "question": "What is the capital of Maryland?",
+    "choices": [
+      "Providence",
+      "Baltimore",
+      "Montpelier",
+      "Annapolis"
+    ],
+    "answer": 3,
+    "hint": "",
+    "image": "image.png",
+    "task": "closed choice",
+    "grade": "grade4",
+    "subject": "social science",
+    "topic": "geography",
+    "category": "State capitals",
+    "skill": "Identify state capitals of the Northeast",
+    "lecture": "",
+    "solution": "Annapolis is the capital of Maryland.",
+    "split": "test",
+    "image_file": "../data/scienceqa\\images\\test\\2660\\image.png",
+    "caption": "A painting of an animal with a flower in it.",
+    "ocr": "[]"
+  },
+  "question_text": "What is the capital of Maryland?\n\nOptions: (A) Providence (B) Baltimore (C) Montpelier (D) Annapolis",
+  "metadata": {
+    "has_image": true,
+    "grade": 4,
+    "subject": "social science",
+    "topic": "geography",
+    "category": "State capitals",
+    "skill": "Identify state capitals of the Northeast"
+  },
+  "modules:input": "Question: What is the capital of Maryland?\n\nOptions: (A) Providence (B) Baltimore (C) Montpelier (D) Annapolis\n\nMetadata: {'has_image': True, 'grade': 4, 'subject': 'social science', 'topic': 'geography', 'category': 'State capitals', 'skill': 'Identify state capitals of the Northeast'}\n\nModules: ",
+  "modules:output": [
+    "query_generator",
+    "bing_search",
+    "solution_generator",
+    "answer_generator"
+  ],
+  "query": "Capital of Maryland",
+  "query_generator:input": "Question: What is the capital of Maryland?\n\nOptions: (A) Providence (B) Baltimore (C) Montpelier (D) Annapolis\n\nMetadata: {'has_image': True, 'grade': 4, 'subject': 'social science', 'topic': 'geography', 'category': 'State capitals', 'skill': 'Identify state capitals of the Northeast'}\n\nSearch Query: ",
+  "query_generator:output": "Capital of Maryland",
+  "response": "",
+  "bing_search:input": "Capital of Maryland",
+  "bing_search:output": [],
+  "solution": "The question is asking for the capital of Maryland. To find the answer, we can use our knowledge of state capitals or search for the answer.\n\nUsing our knowledge, we know that the capital of Maryland is Annapolis.\n\nTherefore, the answer is D.",
+  "solution_generator:input": "Question: What is the capital of Maryland?\n\nOptions: (A) Providence (B) Baltimore (C) Montpelier (D) Annapolis\n\nMetadata: {'has_image': True, 'grade': 4, 'subject': 'social science', 'topic': 'geography', 'category': 'State capitals', 'skill': 'Identify state capitals of the Northeast'}\n\nSolution: ",
+  "solution_generator:output": "The question is asking for the capital of Maryland. To find the answer, we can use our knowledge of state capitals or search for the answer.\n\nUsing our knowledge, we know that the capital of Maryland is Annapolis.\n\nTherefore, the answer is D.",
+  "prediction": "Annapolis",
+  "answer_generator:input": "The question is asking for the capital of Maryland. To find the answer, we can use our knowledge of state capitals or search for the answer.\n\nUsing our knowledge, we know that the capital of Maryland is Annapolis.\n\nTherefore, the answer is D.",
+  "answer_generator:output": "Annapolis",
+  "true_false": true
+}
+{
+  "pid": "6967",
+  "example": {
+    "question": "Compare the average kinetic energies of the particles in each sample. Which sample has the higher temperature?",
+    "choices": [
+      "sample A",
+      "sample B",
+      "neither; the samples have the same temperature"
+    ],
+    "answer": 1,
+    "hint": "The diagrams below show two pure samples of gas in identical closed, rigid containers. Each colored ball represents one gas particle. Both samples have the same number of particles.",
+    "image": "image.png",
+    "task": "closed choice",
+    "grade": "grade6",
+    "subject": "natural science",
+    "topic": "physics",
+    "category": "Particle motion and energy",
+    "skill": "Identify how particle motion affects temperature and pressure",
+    "lecture": "The temperature of a substance depends on the average kinetic energy of the particles in the substance. The higher the average kinetic energy of the particles, the higher the temperature of the substance.\nThe kinetic energy of a particle is determined by its mass and speed. For a pure substance, the greater the mass of each particle in the substance and the higher the average speed of the particles, the higher their average kinetic energy.",
+    "solution": "The particles in both samples have the same average speed, but each particle in sample B has more mass than each particle in sample A. So, the particles in sample B have a higher average kinetic energy than the particles in sample A.\nBecause the particles in sample B have the higher average kinetic energy, sample B must have the higher temperature.",
+    "split": "test",
+    "image_file": "../data/scienceqa\\images\\test\\6967\\image.png",
+    "caption": "A series of pictures showing different types of remote controls.",
+    "ocr": "[([[83, 313], [159, 313], [159, 333], [83, 333]], 'Sample A', 0.9297725398779759), ([[403, 313], [481, 313], [481, 333], [403, 333]], 'Sample B', 0.7209189049688997), ([[24, 346], [222, 346], [222, 372], [24, 372]], 'Mass of each particle: 28 u', 0.7905773699766241), ([[344, 346], [542, 346], [542, 372], [344, 372]], 'Mass of each particle: 32 u', 0.6275568237172853), ([[0, 384], [248, 384], [248, 405], [0, 405]], 'Average particle speed: 1,100 mls', 0.9787659412504046), ([[319, 384], [563, 384], [563, 405], [319, 405]], 'Average particle speed: 1,100 mls', 0.7304494123496097)]"
+  },
+  "question_text": "Compare the average kinetic energies of the particles in each sample. Which sample has the higher temperature?\n\nContext: The diagrams below show two pure samples of gas in identical closed, rigid containers. Each colored ball represents one gas particle. Both samples have the same number of particles.\n\nOptions: (A) sample A (B) sample B (C) neither; the samples have the same temperature",
+  "metadata": {
+    "has_image": true,
+    "grade": 6,
+    "subject": "natural science",
+    "topic": "physics",
+    "category": "Particle motion and energy",
+    "skill": "Identify how particle motion affects temperature and pressure"
+  },
+  "modules:input": "Question: Compare the average kinetic energies of the particles in each sample. Which sample has the higher temperature?\n\nContext: The diagrams below show two pure samples of gas in identical closed, rigid containers. Each colored ball represents one gas particle. Both samples have the same number of particles.\n\nOptions: (A) sample A (B) sample B (C) neither; the samples have the same temperature\n\nMetadata: {'has_image': True, 'grade': 6, 'subject': 'natural science', 'topic': 'physics', 'category': 'Particle motion and energy', 'skill': 'Identify how particle motion affects temperature and pressure'}\n\nModules: ",
+  "modules:output": [
+    "text_detector",
+    "knowledge_retrieval",
+    "solution_generator",
+    "answer_generator"
+  ],
+  "response": "Detected text in the image: [([[83, 313], [159, 313], [159, 333], [83, 333]], 'Sample A'), ([[403, 313], [481, 313], [481, 333], [403, 333]], 'Sample B'), ([[24, 346], [222, 346], [222, 372], [24, 372]], 'Mass of each particle: 28 u'), ([[344, 346], [542, 346], [542, 372], [344, 372]], 'Mass of each particle: 32 u'), ([[0, 384], [248, 384], [248, 405], [0, 405]], 'Average particle speed: 1,100 mls'), ([[319, 384], [563, 384], [563, 405], [319, 405]], 'Average particle speed: 1,100 mls')]\n\nKnowledge:\n- The question is asking to compare the average kinetic energies of the particles in each sample and determine which sample has the higher temperature.\n- The context provides two diagrams showing two pure samples of gas in identical closed, rigid containers. Each colored ball represents one gas particle.\n- The options are sample A, sample B, or neither (the samples have the same temperature).\n- The metadata indicates that the question is related to the topic of physics, specifically particle motion and energy.\n- The detected text in the image provides additional information about the samples, including the mass of each particle and the average particle speed.",
+  "text_detector:input": "../data/scienceqa\\images\\test\\6967\\image.png",
+  "text_detector:output": [
+    [
+      [
+        [
+          83,
+          313
+        ],
+        [
+          159,
+          313
+        ],
+        [
+          159,
+          333
+        ],
+        [
+          83,
+          333
+        ]
+      ],
+      "Sample A"
+    ],
+    [
+      [
+        [
+          403,
+          313
+        ],
+        [
+          481,
+          313
+        ],
+        [
+          481,
+          333
+        ],
+        [
+          403,
+          333
+        ]
+      ],
+      "Sample B"
+    ],
+    [
+      [
+        [
+          24,
+          346
+        ],
+        [
+          222,
+          346
+        ],
+        [
+          222,
+          372
+        ],
+        [
+          24,
+          372
+        ]
+      ],
+      "Mass of each particle: 28 u"
+    ],
+    [
+      [
+        [
+          344,
+          346
+        ],
+        [
+          542,
+          346
+        ],
+        [
+          542,
+          372
+        ],
+        [
+          344,
+          372
+        ]
+      ],
+      "Mass of each particle: 32 u"
+    ],
+    [
+      [
+        [
+          0,
+          384
+        ],
+        [
+          248,
+          384
+        ],
+        [
+          248,
+          405
+        ],
+        [
+          0,
+          405
+        ]
+      ],
+      "Average particle speed: 1,100 mls"
+    ],
+    [
+      [
+        [
+          319,
+          384
+        ],
+        [
+          563,
+          384
+        ],
+        [
+          563,
+          405
+        ],
+        [
+          319,
+          405
+        ]
+      ],
+      "Average particle speed: 1,100 mls"
+    ]
+  ],
+  "knowledge_retrieval:input": "Question: Compare the average kinetic energies of the particles in each sample. Which sample has the higher temperature?\n\nContext: The diagrams below show two pure samples of gas in identical closed, rigid containers. Each colored ball represents one gas particle. Both samples have the same number of particles.\n\nOptions: (A) sample A (B) sample B (C) neither; the samples have the same temperature\n\nMetadata: {'has_image': True, 'grade': 6, 'subject': 'natural science', 'topic': 'physics', 'category': 'Particle motion and energy', 'skill': 'Identify how particle motion affects temperature and pressure'}\n\nDetected text in the image: [([[83, 313], [159, 313], [159, 333], [83, 333]], 'Sample A'), ([[403, 313], [481, 313], [481, 333], [403, 333]], 'Sample B'), ([[24, 346], [222, 346], [222, 372], [24, 372]], 'Mass of each particle: 28 u'), ([[344, 346], [542, 346], [542, 372], [344, 372]], 'Mass of each particle: 32 u'), ([[0, 384], [248, 384], [248, 405], [0, 405]], 'Average particle speed: 1,100 mls'), ([[319, 384], [563, 384], [563, 405], [319, 405]], 'Average particle speed: 1,100 mls')]\n\nKnowledge:\n",
+  "knowledge_retrieval:output": "- The question is asking to compare the average kinetic energies of the particles in each sample and determine which sample has the higher temperature.\n- The context provides two diagrams showing two pure samples of gas in identical closed, rigid containers. Each colored ball represents one gas particle.\n- The options are sample A, sample B, or neither (the samples have the same temperature).\n- The metadata indicates that the question is related to the topic of physics, specifically particle motion and energy.\n- The detected text in the image provides additional information about the samples, including the mass of each particle and the average particle speed.",
+  "solution": "The average kinetic energy of particles is directly related to temperature. Higher average kinetic energy means higher temperature.\n\nTo compare the average kinetic energies of the particles in each sample, we need to consider the mass of each particle and the average particle speed.\n\nIn both samples, the mass of each particle is given as 28 u and 32 u respectively. The mass of the particles is the same in both samples.\n\nThe average particle speed is given as 1,100 m/s in both samples. The average particle speed is the same in both samples.\n\nSince the mass of the particles and the average particle speed are the same in both samples, the average kinetic energies of the particles in each sample are also the same.\n\nTherefore, the answer is C. Neither sample has a higher temperature.",
+  "solution_generator:input": "Question: Compare the average kinetic energies of the particles in each sample. Which sample has the higher temperature?\n\nContext: The diagrams below show two pure samples of gas in identical closed, rigid containers. Each colored ball represents one gas particle. Both samples have the same number of particles.\n\nOptions: (A) sample A (B) sample B (C) neither; the samples have the same temperature\n\nMetadata: {'has_image': True, 'grade': 6, 'subject': 'natural science', 'topic': 'physics', 'category': 'Particle motion and energy', 'skill': 'Identify how particle motion affects temperature and pressure'}\n\nDetected text in the image: [([[83, 313], [159, 313], [159, 333], [83, 333]], 'Sample A'), ([[403, 313], [481, 313], [481, 333], [403, 333]], 'Sample B'), ([[24, 346], [222, 346], [222, 372], [24, 372]], 'Mass of each particle: 28 u'), ([[344, 346], [542, 346], [542, 372], [344, 372]], 'Mass of each particle: 32 u'), ([[0, 384], [248, 384], [248, 405], [0, 405]], 'Average particle speed: 1,100 mls'), ([[319, 384], [563, 384], [563, 405], [319, 405]], 'Average particle speed: 1,100 mls')]\n\nKnowledge:\n- The question is asking to compare the average kinetic energies of the particles in each sample and determine which sample has the higher temperature.\n- The context provides two diagrams showing two pure samples of gas in identical closed, rigid containers. Each colored ball represents one gas particle.\n- The options are sample A, sample B, or neither (the samples have the same temperature).\n- The metadata indicates that the question is related to the topic of physics, specifically particle motion and energy.\n- The detected text in the image provides additional information about the samples, including the mass of each particle and the average particle speed.\n\nSolution: ",
+  "solution_generator:output": "The average kinetic energy of particles is directly related to temperature. Higher average kinetic energy means higher temperature.\n\nTo compare the average kinetic energies of the particles in each sample, we need to consider the mass of each particle and the average particle speed.\n\nIn both samples, the mass of each particle is given as 28 u and 32 u respectively. The mass of the particles is the same in both samples.\n\nThe average particle speed is given as 1,100 m/s in both samples. The average particle speed is the same in both samples.\n\nSince the mass of the particles and the average particle speed are the same in both samples, the average kinetic energies of the particles in each sample are also the same.\n\nTherefore, the answer is C. Neither sample has a higher temperature.",
+  "prediction": "neither; the samples have the same temperature",
+  "answer_generator:input": "The average kinetic energy of particles is directly related to temperature. Higher average kinetic energy means higher temperature.\n\nTo compare the average kinetic energies of the particles in each sample, we need to consider the mass of each particle and the average particle speed.\n\nIn both samples, the mass of each particle is given as 28 u and 32 u respectively. The mass of the particles is the same in both samples.\n\nThe average particle speed is given as 1,100 m/s in both samples. The average particle speed is the same in both samples.\n\nSince the mass of the particles and the average particle speed are the same in both samples, the average kinetic energies of the particles in each sample are also the same.\n\nTherefore, the answer is C. Neither sample has a higher temperature.",
+  "answer_generator:output": "neither; the samples have the same temperature",
+  "true_false": false
+}
+{
+  "pid": "12995",
+  "example": {
+    "question": "Which state is highlighted?",
+    "choices": [
+      "Montana",
+      "Oregon",
+      "California",
+      "Washington"
+    ],
+    "answer": 1,
+    "hint": "",
+    "image": "image.png",
+    "task": "closed choice",
+    "grade": "grade5",
+    "subject": "social science",
+    "topic": "geography",
+    "category": "States",
+    "skill": "Identify the 50 states",
+    "lecture": "",
+    "solution": "This state is Oregon.",
+    "split": "test",
+    "image_file": "../data/scienceqa\\images\\test\\12995\\image.png",
+    "caption": "A painting of an animal with a flower in it.",
+    "ocr": "[]"
+  },
+  "question_text": "Which state is highlighted?\n\nOptions: (A) Montana (B) Oregon (C) California (D) Washington",
+  "metadata": {
+    "has_image": true,
+    "grade": 5,
+    "subject": "social science",
+    "topic": "geography",
+    "category": "States",
+    "skill": "Identify the 50 states"
+  },
+  "modules:input": "Question: Which state is highlighted?\n\nOptions: (A) Montana (B) Oregon (C) California (D) Washington\n\nMetadata: {'has_image': True, 'grade': 5, 'subject': 'social science', 'topic': 'geography', 'category': 'States', 'skill': 'Identify the 50 states'}\n\nModules: ",
+  "modules:output": [
+    "text_detector",
+    "solution_generator",
+    "answer_generator"
+  ],
+  "response": "",
+  "text_detector:input": "../data/scienceqa\\images\\test\\12995\\image.png",
+  "text_detector:output": [],
+  "solution": "Since there is no image or context provided, we cannot determine the answer.",
+  "solution_generator:input": "Question: Which state is highlighted?\n\nOptions: (A) Montana (B) Oregon (C) California (D) Washington\n\nMetadata: {'has_image': True, 'grade': 5, 'subject': 'social science', 'topic': 'geography', 'category': 'States', 'skill': 'Identify the 50 states'}\n\nSolution: ",
+  "solution_generator:output": "Since there is no image or context provided, we cannot determine the answer.",
+  "prediction": "montana",
+  "answer_generator:input": "Since there is no image or context provided, we cannot determine the answer.",
+  "answer_generator:output": "montana",
+  "true_false": false
+}
+{
+  "pid": "19819",
+  "example": {
+    "question": "Select the animal that has a backbone.",
+    "choices": [
+      "weaver ant",
+      "common toad"
+    ],
+    "answer": 1,
+    "hint": "Hint: Mammals, birds, fish, reptiles, and amphibians all have backbones.",
+    "image": null,
+    "task": "closed choice",
+    "grade": "grade2",
+    "subject": "natural science",
+    "topic": "biology",
+    "category": "Classification",
+    "skill": "Identify animals with and without backbones",
+    "lecture": "Some animals have a backbone. The backbone is made of many bones in an animal's back. An animal's backbone helps connect the different parts of its body. In the drawings below, each animal's backbone is colored orange.\nOther animals do not have a backbone. In fact, these animals don't have any bones! Some animals without backbones have a hard outer cover. Other animals have a soft body.",
+    "solution": "A common toad is an amphibian. Like other amphibians, a common toad has a backbone.\nA weaver ant is an insect. Like other insects, a weaver ant does not have a backbone. It has a hard outer cover.",
+    "split": "test",
+    "image_file": "",
+    "caption": "",
+    "ocr": []
+  },
+  "question_text": "Select the animal that has a backbone.\n\nContext: Hint: Mammals, birds, fish, reptiles, and amphibians all have backbones.\n\nOptions: (A) weaver ant (B) common toad",
+  "metadata": {
+    "has_image": false,
+    "grade": 2,
+    "subject": "natural science",
+    "topic": "biology",
+    "category": "Classification",
+    "skill": "Identify animals with and without backbones"
+  },
+  "modules:input": "Question: Select the animal that has a backbone.\n\nContext: Hint: Mammals, birds, fish, reptiles, and amphibians all have backbones.\n\nOptions: (A) weaver ant (B) common toad\n\nMetadata: {'has_image': False, 'grade': 2, 'subject': 'natural science', 'topic': 'biology', 'category': 'Classification', 'skill': 'Identify animals with and without backbones'}\n\nModules: ",
+  "modules:output": [
+    "knowledge_retrieval",
+    "solution_generator",
+    "answer_generator"
+  ],
+  "response": "Knowledge:\n- Animals can be classified into two main groups: vertebrates and invertebrates.\n- Vertebrates are animals that have a backbone or spinal column.\n- Examples of vertebrates include mammals, birds, fish, reptiles, and amphibians.\n- Invertebrates are animals that do not have a backbone.\n- Examples of invertebrates include insects, spiders, worms, and mollusks.\n- To determine which animal has a backbone, we need to identify if it belongs to the group of vertebrates.",
+  "knowledge_retrieval:input": "Question: Select the animal that has a backbone.\n\nContext: Hint: Mammals, birds, fish, reptiles, and amphibians all have backbones.\n\nOptions: (A) weaver ant (B) common toad\n\nMetadata: {'has_image': False, 'grade': 2, 'subject': 'natural science', 'topic': 'biology', 'category': 'Classification', 'skill': 'Identify animals with and without backbones'}\n\nKnowledge:\n",
+  "knowledge_retrieval:output": "- Animals can be classified into two main groups: vertebrates and invertebrates.\n- Vertebrates are animals that have a backbone or spinal column.\n- Examples of vertebrates include mammals, birds, fish, reptiles, and amphibians.\n- Invertebrates are animals that do not have a backbone.\n- Examples of invertebrates include insects, spiders, worms, and mollusks.\n- To determine which animal has a backbone, we need to identify if it belongs to the group of vertebrates.",
+  "solution": "To determine which animal has a backbone, we need to identify if it belongs to the group of vertebrates.\nA weaver ant is an insect, which is an invertebrate. Insects do not have a backbone.\nA common toad is an amphibian. Amphibians have a backbone.\nTherefore, the answer is B.",
+  "solution_generator:input": "Question: Select the animal that has a backbone.\n\nContext: Hint: Mammals, birds, fish, reptiles, and amphibians all have backbones.\n\nOptions: (A) weaver ant (B) common toad\n\nMetadata: {'has_image': False, 'grade': 2, 'subject': 'natural science', 'topic': 'biology', 'category': 'Classification', 'skill': 'Identify animals with and without backbones'}\n\nKnowledge:\n- Animals can be classified into two main groups: vertebrates and invertebrates.\n- Vertebrates are animals that have a backbone or spinal column.\n- Examples of vertebrates include mammals, birds, fish, reptiles, and amphibians.\n- Invertebrates are animals that do not have a backbone.\n- Examples of invertebrates include insects, spiders, worms, and mollusks.\n- To determine which animal has a backbone, we need to identify if it belongs to the group of vertebrates.\n\nSolution: ",
+  "solution_generator:output": "To determine which animal has a backbone, we need to identify if it belongs to the group of vertebrates.\nA weaver ant is an insect, which is an invertebrate. Insects do not have a backbone.\nA common toad is an amphibian. Amphibians have a backbone.\nTherefore, the answer is B.",
+  "prediction": "common toad",
+  "answer_generator:input": "To determine which animal has a backbone, we need to identify if it belongs to the group of vertebrates.\nA weaver ant is an insect, which is an invertebrate. Insects do not have a backbone.\nA common toad is an amphibian. Amphibians have a backbone.\nTherefore, the answer is B.",
+  "answer_generator:output": "common toad",
+  "true_false": true
+}
